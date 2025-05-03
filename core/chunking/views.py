@@ -3,6 +3,7 @@ from django.http import HttpResponse
 from django.http import JsonResponse
 import json
 from django.views.decorators.csrf import csrf_exempt
+from .chunkers import fixsize
 
 # Create; your views here.
 def home(request):
@@ -12,12 +13,14 @@ def fixSize(request):
     if request.method == "POST":
         try:
             data = json.loads(request.body)
+            size = data.get("size")
             input_text = data.get("text", "")
+            chunk_data = fixsize.chunk_fixSize(size,input_text)
             if not input_text:
                 return JsonResponse({"error": "No text provided"}, status=400)
             
             # Example processing (just return length)
-            return JsonResponse({"received_text": input_text, "length": len(input_text)})
+            return JsonResponse({"chunk data": chunk_data, "size": size})
         
         except json.JSONDecodeError:
             return JsonResponse({"error": "Invalid JSON"}, status=400)
