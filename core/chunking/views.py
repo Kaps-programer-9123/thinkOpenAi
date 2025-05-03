@@ -10,24 +10,38 @@ def home(request):
     return HttpResponse("Hello from the Chunking Home!")
 
 def fixSize(request):
+    result, input_text, size, overlap, separators = validator(request)
+    if result == "No_error":
+        chunk_data = fixsize.chunk_fixSize(size,input_text)
+        return JsonResponse({"chunk data": chunk_data, "size": size})
+
+
+def Sliding(request):
+    result, input_text, size, overlap, separators = validator(request)
+    print(result,input_text,size,overlap)
+    if result == "No_error":
+        chunk_data = fixsize.Sliding(size,input_text,overlap, separators)
+        return JsonResponse({"chunk data": chunk_data, "size": size,  "overlap": overlap, "separators": separators})
+
+
+def validator(request):
     if request.method == "POST":
         try:
             data = json.loads(request.body)
-            size = data.get("size")
             input_text = data.get("text", "")
-            chunk_data = fixsize.chunk_fixSize(size,input_text)
+            size = data.get("size", 100)
+            overlap = data.get("overlap",size/10)
+            separators = data.get("separators","")
             if not input_text:
                 return JsonResponse({"error": "No text provided"}, status=400)
-            
-            # Example processing (just return length)
-            return JsonResponse({"chunk data": chunk_data, "size": size})
-        
+            else:
+                return "No_error" , input_text, size, overlap, separators   
         except json.JSONDecodeError:
             return JsonResponse({"error": "Invalid JSON"}, status=400)
     else:
         return JsonResponse({"error": "Only POST method allowed"}, status=405)
-
-
+    
+    
 def example(request):
     sample = """
     ########################################
@@ -45,5 +59,3 @@ def example(request):
     The tide has washed them up and they can’t return to the sea by themselves. If I don’t throw them back, they’ll die.”
     """
     return HttpResponse(f"<pre>{sample}</pre>")
-
-
