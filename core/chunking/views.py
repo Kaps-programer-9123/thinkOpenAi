@@ -3,8 +3,10 @@ from django.http import HttpResponse
 from django.http import JsonResponse
 import json
 from django.views.decorators.csrf import csrf_exempt
-from .chunkers import fixsize
+from .chunkers import chunker
+import logging
 
+logger = logging.getLogger(__name__)
 # Create; your views here.
 def home(request):
     return HttpResponse("Hello from the Chunking Home!")
@@ -12,17 +14,31 @@ def home(request):
 def fixSize(request):
     result, input_text, size, overlap, separators = validator(request)
     if result == "No_error":
-        chunk_data = fixsize.chunk_fixSize(size,input_text)
+        chunk_data = chunker.chunk_fixSize(size,input_text)
         return JsonResponse({"chunk data": chunk_data, "size": size})
 
 
 def Sliding(request):
     result, input_text, size, overlap, separators = validator(request)
-    print(result,input_text,size,overlap)
+    logger.info(result,input_text,size,overlap)
     if result == "No_error":
-        chunk_data = fixsize.Sliding(size,input_text,overlap, separators)
+        chunk_data = chunker.Sliding(size,input_text,overlap, separators)
         return JsonResponse({"chunk data": chunk_data, "size": size,  "overlap": overlap, "separators": separators})
 
+def token(request):
+    result, input_text, size, overlap, separators = validator(request)
+    logger.info(result)
+    if result == "No_error":
+        chunk_data = chunker.token(size,input_text)
+        return JsonResponse({"chunk data": chunk_data, "size": size})
+
+def markdown(request):
+    response = """use markdown/header or markdown/section for better split of text
+    sample request : 
+                     1 http://127.0.0.1:8000/chunking/markdown/header
+                     2. http://127.0.0.1:8000/chunking/markdown/section
+    """
+    return HttpResponse(response)
 
 def validator(request):
     if request.method == "POST":
