@@ -40,6 +40,49 @@ def markdown(request):
     """
     return HttpResponse(response)
 
+def markdown_header(request):
+    result, input_text, size, overlap, separators = validator(request)
+    logger.info(result)
+    logger.info(input_text)
+    
+    if result == "No_error":
+        headers_to_split_on, chunk_data = chunker.markdown_header(input_text)
+        logger.info(headers_to_split_on)
+        logger.info(chunk_data)
+        serializable_data = [
+            {
+                "page_content": doc.page_content,
+                "metadata": doc.metadata
+            }
+            for doc in chunk_data
+        ]
+
+        return JsonResponse({"chunk data": serializable_data})
+    
+def markdown_section(request):
+    result, input_text, size, overlap, separators = validator(request)
+    logger.info(result)
+    logger.info(input_text)
+    
+    if result == "No_error":
+        headers_to_split_on, chunk_data = chunker.markdown_section(input_text)
+        logger.info(headers_to_split_on)
+        logger.info(chunk_data)
+        serializable_chunk = [
+            {
+                "page_content": doc.page_content,
+                "metadata": doc.metadata
+            }
+            for doc in chunk_data
+        ]
+        
+        headers_to_split_on = {
+        "h1": "Header 1",
+        "h2": "Header 2"
+        }
+
+        return JsonResponse({"chunk data": serializable_chunk,"section split on :": headers_to_split_on})
+
 def validator(request):
     if request.method == "POST":
         try:

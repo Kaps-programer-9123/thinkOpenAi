@@ -8,5 +8,6 @@ urlpatterns = [
     path("Sliding", views.Sliding , name="Sliding_chunk"),
     path("token", views.token , name="Token_chunk"),
     path("markdown", views.markdown , name="markdown_home"),
-    path("markdown/header", views.token, name="Markdown_header_chunk")
+    path("markdown/header", views.markdown_header, name="Markdown_header_chunk"),
+    path("markdown/section", views.markdown_section, name="Markdown_section_chunk")
 ]
