@@ -1,0 +1,750 @@
+2025-05-04 11:26:37,631 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:26:52,460 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\core\settings.py changed, reloading.
+2025-05-04 11:26:54,140 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:26:57,785 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\core\settings.py changed, reloading.
+2025-05-04 11:26:59,288 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:27:41,212 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\core\settings.py changed, reloading.
+2025-05-04 11:27:42,747 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:27:58,855 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\core\settings.py changed, reloading.
+2025-05-04 11:28:35,842 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:28:42,614 INFO chunking.views: No_error
+2025-05-04 11:28:43,035 INFO chunking.chunkers.chunker: tokens size : 255
+2025-05-04 11:28:43,035 INFO django.server: "POST /chunking/token HTTP/1.1" 200 1110
+2025-05-04 11:29:01,570 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 11:29:03,210 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:29:08,177 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:29:10,167 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:29:18,308 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:29:20,180 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:29:41,513 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 11:29:43,011 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:29:45,740 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 11:29:47,393 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:29:56,907 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 11:29:58,774 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:30:04,111 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 11:30:06,744 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:30:19,336 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 11:30:21,291 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:30:26,837 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 11:30:28,355 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:30:31,541 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 11:30:33,294 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:30:37,716 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 11:30:39,561 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:30:44,128 INFO chunking.views: No_error
+2025-05-04 11:30:44,473 INFO chunking.chunkers.chunker: All tokens len : 255
+2025-05-04 11:30:44,473 INFO chunking.chunkers.chunker: First chunk : One day, an old man was walking along a beach that was littered with thousands of starfish that
+2025-05-04 11:30:44,475 INFO django.server: "POST /chunking/token HTTP/1.1" 200 1110
+2025-05-04 11:30:58,874 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 11:31:00,328 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:31:09,167 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 11:31:10,709 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:31:14,818 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 11:31:16,179 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:31:19,667 INFO chunking.views: No_error
+2025-05-04 11:31:20,053 INFO chunking.chunkers.chunker: All tokens len : 255
+2025-05-04 11:31:20,099 ERROR django.request: Internal Server Error: /chunking/token
+Traceback (most recent call last):
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py", line 32, in token
+    chunk_data = chunker.token(size,input_text)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py", line 42, in token
+    logger.info("provided chunk size : "+size)
+                ~~~~~~~~~~~~~~~~~~~~~~~~^~~~~
+TypeError: can only concatenate str (not "int") to str
+2025-05-04 11:31:20,113 ERROR django.server: "POST /chunking/token HTTP/1.1" 500 78849
+2025-05-04 11:31:27,785 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 11:31:29,013 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:31:30,577 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 11:31:32,131 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:31:33,993 INFO chunking.views: No_error
+2025-05-04 11:31:34,436 INFO chunking.chunkers.chunker: All tokens len : 255
+2025-05-04 11:31:34,436 INFO chunking.chunkers.chunker: provided chunk size : 20
+2025-05-04 11:31:34,436 INFO chunking.chunkers.chunker: First chunk : One day, an old man was walking along a beach that was littered with thousands of starfish that
+2025-05-04 11:31:34,438 INFO django.server: "POST /chunking/token HTTP/1.1" 200 1110
+2025-05-04 11:32:08,720 INFO chunking.views: No_error
+2025-05-04 11:32:08,720 INFO chunking.chunkers.chunker: All tokens len : 255
+2025-05-04 11:32:08,720 INFO chunking.chunkers.chunker: provided chunk size : 30
+2025-05-04 11:32:08,720 INFO chunking.chunkers.chunker: First chunk : One day, an old man was walking along a beach that was littered with thousands of starfish that had been washed ashore by the tide. As he
+2025-05-04 11:32:08,724 INFO django.server: "POST /chunking/token HTTP/1.1" 200 1094
+2025-05-04 11:32:13,816 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 11:32:15,777 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:32:18,550 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 11:32:20,383 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:32:22,860 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 11:32:24,429 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:32:50,082 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 11:32:51,889 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:32:55,878 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 11:32:57,422 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:33:00,149 INFO chunking.chunkers.chunker: provided chunk separators : .,
+
+2025-05-04 11:33:00,149 INFO django.server: "POST /chunking/Sliding HTTP/1.1" 200 1223
+2025-05-04 11:33:13,135 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 11:40:25,619 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:40:29,032 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\core\settings.py changed, reloading.
+2025-05-04 11:40:30,781 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:40:32,949 INFO django.server: "POST /chunking/markdown HTTP/1.1" 200 105
+2025-05-04 11:40:57,329 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:40:59,001 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:41:10,694 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:41:12,360 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:41:15,123 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:41:17,243 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:41:19,473 INFO django.server: "POST /chunking/markdown HTTP/1.1" 200 222
+2025-05-04 11:41:19,634 INFO django.server: "POST /chunking/markdown HTTP/1.1" 200 222
+2025-05-04 11:41:19,809 INFO django.server: "POST /chunking/markdown HTTP/1.1" 200 222
+2025-05-04 11:41:26,063 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:41:27,804 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:41:34,850 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:41:37,095 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:42:12,613 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:42:14,708 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:42:18,375 ERROR django.request: Internal Server Error: /chunking/markdown
+Traceback (most recent call last):
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py", line 40, in markdown
+    return HttpResponse({response},content="text/html")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: HttpResponse.__init__() got multiple values for argument 'content'
+2025-05-04 11:42:18,387 ERROR django.server: "POST /chunking/markdown HTTP/1.1" 500 67335
+2025-05-04 11:42:24,468 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:42:26,731 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:42:30,104 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:42:31,338 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:42:36,392 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:42:38,369 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:42:40,318 ERROR django.request: Internal Server Error: /chunking/markdown
+Traceback (most recent call last):
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py", line 40, in markdown
+    return HttpResponse(response,content="plain/text")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: HttpResponse.__init__() got multiple values for argument 'content'
+2025-05-04 11:42:40,327 ERROR django.server: "POST /chunking/markdown HTTP/1.1" 500 67331
+2025-05-04 11:42:57,081 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:42:59,076 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:43:01,865 INFO django.server: "POST /chunking/markdown HTTP/1.1" 200 211
+2025-05-04 11:43:10,822 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:43:12,443 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:43:16,401 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:43:18,073 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:43:20,711 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:43:22,605 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:43:25,730 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:43:27,497 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:43:29,160 INFO django.server: "POST /chunking/markdown HTTP/1.1" 200 233
+2025-05-04 11:43:29,322 INFO django.server: "POST /chunking/markdown HTTP/1.1" 200 233
+2025-05-04 11:43:29,445 INFO django.server: "POST /chunking/markdown HTTP/1.1" 200 233
+2025-05-04 11:43:29,955 INFO django.server: "POST /chunking/markdown HTTP/1.1" 200 233
+2025-05-04 11:43:30,086 INFO django.server: "POST /chunking/markdown HTTP/1.1" 200 233
+2025-05-04 11:43:30,222 INFO django.server: "POST /chunking/markdown HTTP/1.1" 200 233
+2025-05-04 11:43:30,333 INFO django.server: "POST /chunking/markdown HTTP/1.1" 200 233
+2025-05-04 11:43:30,460 INFO django.server: "POST /chunking/markdown HTTP/1.1" 200 233
+2025-05-04 11:43:30,614 INFO django.server: "POST /chunking/markdown HTTP/1.1" 200 233
+2025-05-04 11:43:30,737 INFO django.server: "POST /chunking/markdown HTTP/1.1" 200 233
+2025-05-04 11:43:30,863 INFO django.server: "POST /chunking/markdown HTTP/1.1" 200 233
+2025-05-04 11:43:31,151 INFO django.server: "POST /chunking/markdown HTTP/1.1" 200 233
+2025-05-04 11:43:31,301 INFO django.server: "POST /chunking/markdown HTTP/1.1" 200 233
+2025-05-04 11:43:31,446 INFO django.server: "POST /chunking/markdown HTTP/1.1" 200 233
+2025-05-04 11:43:31,568 INFO django.server: "POST /chunking/markdown HTTP/1.1" 200 233
+2025-05-04 11:43:34,720 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:43:36,618 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:44:18,567 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:44:20,192 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:44:41,124 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:44:42,972 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:44:46,415 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:44:47,965 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:44:54,507 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:44:56,067 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:44:58,661 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:45:00,256 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:45:02,598 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:45:04,375 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:45:09,836 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:45:11,360 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:45:13,749 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:45:15,066 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:45:24,725 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:45:26,772 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:45:34,654 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:45:36,141 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:45:43,004 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:45:44,521 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:45:57,687 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:45:59,945 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:46:23,066 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:46:24,971 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:46:27,258 INFO django.server: "POST /chunking/markdown HTTP/1.1" 200 233
+2025-05-04 11:46:27,995 INFO django.server: "POST /chunking/markdown HTTP/1.1" 200 233
+2025-05-04 11:46:28,391 INFO django.server: "POST /chunking/markdown HTTP/1.1" 200 233
+2025-05-04 11:46:28,544 INFO django.server: "POST /chunking/markdown HTTP/1.1" 200 233
+2025-05-04 11:46:53,522 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:46:54,699 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:48:36,368 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:48:37,638 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:48:40,362 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:48:41,707 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:48:46,453 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:48:48,378 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:48:56,303 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:48:58,218 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:49:01,993 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:49:03,657 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:49:06,432 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:49:08,178 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:49:17,447 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:49:18,999 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:51:28,764 INFO django.server: "POST /chunking/markdown HTTP/1.1" 200 233
+2025-05-04 11:51:32,633 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:51:34,447 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:51:42,825 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\urls.py changed, reloading.
+2025-05-04 11:51:44,442 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:52:03,747 INFO chunking.views: No_error
+2025-05-04 11:52:03,747 INFO chunking.views: <!DOCTYPE html>
+<html>
+<body>
+    <div>
+        <h1>Foo</h1>
+        <p>Some intro text about Foo.</p>
+        <h3>testing</h3>
+    </div>
+    
+    <h2>
+        <h3>testing</h3>
+        <p>kapil</p>
+    </h2>
+</body>
+</html>
+2025-05-04 11:52:04,168 INFO chunking.chunkers.chunker: All tokens len : 147
+2025-05-04 11:52:04,172 INFO chunking.chunkers.chunker: provided chunk size : 30
+2025-05-04 11:52:04,172 INFO chunking.chunkers.chunker: First chunk : <!DOCTYPE html>
+<html>
+<body>
+    <div>
+      
+2025-05-04 11:52:04,176 INFO django.server: "POST /chunking/markdown/header HTTP/1.1" 200 286
+2025-05-04 11:52:29,823 INFO chunking.views: No_error
+2025-05-04 11:52:29,823 INFO chunking.views: <!DOCTYPE html>
+<html>
+<body>
+    <div>
+        <h1>Foo</h1>
+        <p>Some intro text about Foo.</p>
+        <h3>testing</h3>
+    </div>
+    
+    <h2>
+        <h3>testing</h3>
+        <p>kapil</p>
+    </h2>
+</body>
+</html>
+2025-05-04 11:52:29,827 INFO chunking.chunkers.chunker: All tokens len : 147
+2025-05-04 11:52:29,827 INFO chunking.chunkers.chunker: provided chunk size : 10
+2025-05-04 11:52:29,827 INFO chunking.chunkers.chunker: First chunk : <!DOCTYPE html>
+<
+2025-05-04 11:52:29,827 INFO django.server: "POST /chunking/markdown/header HTTP/1.1" 200 326
+2025-05-04 11:52:36,899 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\urls.py changed, reloading.
+2025-05-04 11:52:38,811 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:52:48,783 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 11:52:50,647 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:52:54,353 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 11:52:55,665 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:53:18,790 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 11:53:20,280 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:53:23,255 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 11:53:24,406 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:53:31,111 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 11:53:32,589 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:53:36,755 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 11:53:38,674 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:53:45,053 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 11:53:46,402 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:53:49,635 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 11:53:50,908 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:53:55,656 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 11:53:57,212 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:54:01,185 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:54:03,208 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:54:06,295 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:54:07,693 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:54:10,977 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:54:13,023 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:54:17,910 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 11:54:19,983 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:54:24,196 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:54:25,412 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:54:38,822 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:54:40,072 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:54:49,350 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:54:50,899 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:54:53,587 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:54:54,887 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:54:57,985 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:54:59,186 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:55:01,508 INFO chunking.views: No_error
+2025-05-04 11:55:01,508 INFO chunking.views: <!DOCTYPE html>
+<html>
+<body>
+    <div>
+        <h1>Foo</h1>
+        <p>Some intro text about Foo.</p>
+        <h3>testing</h3>
+    </div>
+    
+    <h2>
+        <h3>testing</h3>
+        <p>kapil</p>
+    </h2>
+</body>
+</html>
+2025-05-04 11:55:01,953 ERROR django.request: Internal Server Error: /chunking/markdown/header
+Traceback (most recent call last):
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py", line 50, in markdown_header
+    return JsonResponse({"chunk data": chunk_data,"header split on ":headers_to_split_on})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\venv\Lib\site-packages\django\http\response.py", line 751, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Python312\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\venv\Lib\site-packages\django\core\serializers\json.py", line 114, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Document is not JSON serializable
+2025-05-04 11:55:01,963 ERROR django.server: "POST /chunking/markdown/header HTTP/1.1" 500 97442
+2025-05-04 11:55:48,379 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:55:49,770 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:56:03,447 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:56:05,022 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:56:13,819 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:56:15,336 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:56:18,627 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:56:20,511 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:56:23,889 INFO chunking.views: No_error
+2025-05-04 11:56:23,889 INFO chunking.views: <!DOCTYPE html>
+<html>
+<body>
+    <div>
+        <h1>Foo</h1>
+        <p>Some intro text about Foo.</p>
+        <h3>testing</h3>
+    </div>
+    
+    <h2>
+        <h3>testing</h3>
+        <p>kapil</p>
+    </h2>
+</body>
+</html>
+2025-05-04 11:56:23,920 INFO chunking.views: [('h1', 'Header 1'), ('h2', 'Header 2'), ('h3', 'Header 3')]
+2025-05-04 11:56:23,956 ERROR django.request: Internal Server Error: /chunking/markdown/header
+Traceback (most recent call last):
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py", line 51, in markdown_header
+    return JsonResponse({"chunk data": chunk_data})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\venv\Lib\site-packages\django\http\response.py", line 751, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Python312\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\venv\Lib\site-packages\django\core\serializers\json.py", line 114, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Document is not JSON serializable
+2025-05-04 11:56:23,956 ERROR django.server: "POST /chunking/markdown/header HTTP/1.1" 500 96244
+2025-05-04 11:56:41,422 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:56:42,872 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:56:56,343 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:56:57,980 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:57:02,056 INFO chunking.views: No_error
+2025-05-04 11:57:02,056 INFO chunking.views: <!DOCTYPE html>
+<html>
+<body>
+    <div>
+        <h1>Foo</h1>
+        <p>Some intro text about Foo.</p>
+        <h3>testing</h3>
+    </div>
+    
+    <h2>
+        <h3>testing</h3>
+        <p>kapil</p>
+    </h2>
+</body>
+</html>
+2025-05-04 11:57:02,075 INFO chunking.views: [('h1', 'Header 1'), ('h2', 'Header 2'), ('h3', 'Header 3')]
+2025-05-04 11:57:02,075 INFO chunking.views: [Document(page_content='Foo testing'), Document(page_content='Some intro text about Foo.', metadata={'Header 1': 'Foo'}), Document(page_content='kapil', metadata={'Header 2': 'testing'})]
+2025-05-04 11:57:02,109 ERROR django.request: Internal Server Error: /chunking/markdown/header
+Traceback (most recent call last):
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\venv\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view chunking.views.markdown_header didn't return an HttpResponse object. It returned None instead.
+2025-05-04 11:57:02,109 ERROR django.server: "POST /chunking/markdown/header HTTP/1.1" 500 67676
+2025-05-04 11:57:02,684 INFO chunking.views: No_error
+2025-05-04 11:57:02,684 INFO chunking.views: <!DOCTYPE html>
+<html>
+<body>
+    <div>
+        <h1>Foo</h1>
+        <p>Some intro text about Foo.</p>
+        <h3>testing</h3>
+    </div>
+    
+    <h2>
+        <h3>testing</h3>
+        <p>kapil</p>
+    </h2>
+</body>
+</html>
+2025-05-04 11:57:02,690 INFO chunking.views: [('h1', 'Header 1'), ('h2', 'Header 2'), ('h3', 'Header 3')]
+2025-05-04 11:57:02,694 INFO chunking.views: [Document(page_content='Foo testing'), Document(page_content='Some intro text about Foo.', metadata={'Header 1': 'Foo'}), Document(page_content='kapil', metadata={'Header 2': 'testing'})]
+2025-05-04 11:57:02,723 ERROR django.request: Internal Server Error: /chunking/markdown/header
+Traceback (most recent call last):
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\venv\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view chunking.views.markdown_header didn't return an HttpResponse object. It returned None instead.
+2025-05-04 11:57:02,723 ERROR django.server: "POST /chunking/markdown/header HTTP/1.1" 500 67676
+2025-05-04 11:57:02,942 INFO chunking.views: No_error
+2025-05-04 11:57:02,942 INFO chunking.views: <!DOCTYPE html>
+<html>
+<body>
+    <div>
+        <h1>Foo</h1>
+        <p>Some intro text about Foo.</p>
+        <h3>testing</h3>
+    </div>
+    
+    <h2>
+        <h3>testing</h3>
+        <p>kapil</p>
+    </h2>
+</body>
+</html>
+2025-05-04 11:57:02,949 INFO chunking.views: [('h1', 'Header 1'), ('h2', 'Header 2'), ('h3', 'Header 3')]
+2025-05-04 11:57:02,949 INFO chunking.views: [Document(page_content='Foo testing'), Document(page_content='Some intro text about Foo.', metadata={'Header 1': 'Foo'}), Document(page_content='kapil', metadata={'Header 2': 'testing'})]
+2025-05-04 11:57:02,970 ERROR django.request: Internal Server Error: /chunking/markdown/header
+Traceback (most recent call last):
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\venv\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view chunking.views.markdown_header didn't return an HttpResponse object. It returned None instead.
+2025-05-04 11:57:02,971 ERROR django.server: "POST /chunking/markdown/header HTTP/1.1" 500 67676
+2025-05-04 11:57:03,127 INFO chunking.views: No_error
+2025-05-04 11:57:03,127 INFO chunking.views: <!DOCTYPE html>
+<html>
+<body>
+    <div>
+        <h1>Foo</h1>
+        <p>Some intro text about Foo.</p>
+        <h3>testing</h3>
+    </div>
+    
+    <h2>
+        <h3>testing</h3>
+        <p>kapil</p>
+    </h2>
+</body>
+</html>
+2025-05-04 11:57:03,130 INFO chunking.views: [('h1', 'Header 1'), ('h2', 'Header 2'), ('h3', 'Header 3')]
+2025-05-04 11:57:03,130 INFO chunking.views: [Document(page_content='Foo testing'), Document(page_content='Some intro text about Foo.', metadata={'Header 1': 'Foo'}), Document(page_content='kapil', metadata={'Header 2': 'testing'})]
+2025-05-04 11:57:03,168 ERROR django.request: Internal Server Error: /chunking/markdown/header
+Traceback (most recent call last):
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\venv\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view chunking.views.markdown_header didn't return an HttpResponse object. It returned None instead.
+2025-05-04 11:57:03,170 ERROR django.server: "POST /chunking/markdown/header HTTP/1.1" 500 67676
+2025-05-04 11:57:03,269 INFO chunking.views: No_error
+2025-05-04 11:57:03,271 INFO chunking.views: <!DOCTYPE html>
+<html>
+<body>
+    <div>
+        <h1>Foo</h1>
+        <p>Some intro text about Foo.</p>
+        <h3>testing</h3>
+    </div>
+    
+    <h2>
+        <h3>testing</h3>
+        <p>kapil</p>
+    </h2>
+</body>
+</html>
+2025-05-04 11:57:03,274 INFO chunking.views: [('h1', 'Header 1'), ('h2', 'Header 2'), ('h3', 'Header 3')]
+2025-05-04 11:57:03,274 INFO chunking.views: [Document(page_content='Foo testing'), Document(page_content='Some intro text about Foo.', metadata={'Header 1': 'Foo'}), Document(page_content='kapil', metadata={'Header 2': 'testing'})]
+2025-05-04 11:57:03,293 ERROR django.request: Internal Server Error: /chunking/markdown/header
+Traceback (most recent call last):
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\venv\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view chunking.views.markdown_header didn't return an HttpResponse object. It returned None instead.
+2025-05-04 11:57:03,293 ERROR django.server: "POST /chunking/markdown/header HTTP/1.1" 500 67676
+2025-05-04 11:57:28,251 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:57:29,823 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:59:16,798 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:59:18,321 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:59:37,545 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:59:39,047 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:59:43,160 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:59:44,459 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:59:47,051 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 11:59:48,848 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 11:59:51,218 INFO chunking.views: No_error
+2025-05-04 11:59:51,218 INFO chunking.views: <!DOCTYPE html>
+<html>
+<body>
+    <div>
+        <h1>Foo</h1>
+        <p>Some intro text about Foo.</p>
+        <h3>testing</h3>
+    </div>
+    
+    <h2>
+        <h3>testing</h3>
+        <p>kapil</p>
+    </h2>
+</body>
+</html>
+2025-05-04 11:59:51,249 INFO chunking.views: [('h1', 'Header 1'), ('h2', 'Header 2'), ('h3', 'Header 3')]
+2025-05-04 11:59:51,249 INFO chunking.views: [Document(page_content='Foo testing'), Document(page_content='Some intro text about Foo.', metadata={'Header 1': 'Foo'}), Document(page_content='kapil', metadata={'Header 2': 'testing'})]
+2025-05-04 11:59:51,251 INFO django.server: "POST /chunking/markdown/header HTTP/1.1" 200 210
+2025-05-04 11:59:51,380 INFO chunking.views: No_error
+2025-05-04 11:59:51,380 INFO chunking.views: <!DOCTYPE html>
+<html>
+<body>
+    <div>
+        <h1>Foo</h1>
+        <p>Some intro text about Foo.</p>
+        <h3>testing</h3>
+    </div>
+    
+    <h2>
+        <h3>testing</h3>
+        <p>kapil</p>
+    </h2>
+</body>
+</html>
+2025-05-04 11:59:51,385 INFO chunking.views: [('h1', 'Header 1'), ('h2', 'Header 2'), ('h3', 'Header 3')]
+2025-05-04 11:59:51,385 INFO chunking.views: [Document(page_content='Foo testing'), Document(page_content='Some intro text about Foo.', metadata={'Header 1': 'Foo'}), Document(page_content='kapil', metadata={'Header 2': 'testing'})]
+2025-05-04 11:59:51,388 INFO django.server: "POST /chunking/markdown/header HTTP/1.1" 200 210
+2025-05-04 11:59:51,573 INFO chunking.views: No_error
+2025-05-04 11:59:51,573 INFO chunking.views: <!DOCTYPE html>
+<html>
+<body>
+    <div>
+        <h1>Foo</h1>
+        <p>Some intro text about Foo.</p>
+        <h3>testing</h3>
+    </div>
+    
+    <h2>
+        <h3>testing</h3>
+        <p>kapil</p>
+    </h2>
+</body>
+</html>
+2025-05-04 11:59:51,578 INFO chunking.views: [('h1', 'Header 1'), ('h2', 'Header 2'), ('h3', 'Header 3')]
+2025-05-04 11:59:51,578 INFO chunking.views: [Document(page_content='Foo testing'), Document(page_content='Some intro text about Foo.', metadata={'Header 1': 'Foo'}), Document(page_content='kapil', metadata={'Header 2': 'testing'})]
+2025-05-04 11:59:51,578 INFO django.server: "POST /chunking/markdown/header HTTP/1.1" 200 210
+2025-05-04 12:01:07,131 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 12:01:08,460 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:01:14,436 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 12:01:16,076 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:01:19,996 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 12:01:21,494 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:01:24,827 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\urls.py changed, reloading.
+2025-05-04 12:01:26,910 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:01:50,415 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\urls.py changed, reloading.
+2025-05-04 12:01:52,387 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:02:01,580 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 12:02:03,071 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:02:06,170 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 12:02:07,851 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:02:10,944 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 12:02:12,859 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:02:17,947 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 12:02:19,543 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:02:28,993 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 12:02:30,986 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:02:56,968 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 12:02:58,482 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:03:14,942 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 12:03:17,378 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:03:30,697 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 12:03:32,168 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:03:37,012 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 12:03:39,290 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:03:46,449 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 12:03:48,051 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:03:52,114 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 12:03:53,537 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:03:58,791 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 12:04:00,755 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:04:31,056 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 12:04:33,115 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:04:46,170 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 12:04:48,136 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:04:58,441 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 12:05:00,392 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:06:05,035 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 12:06:06,460 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:06:11,445 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 12:06:13,307 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:06:17,641 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 12:06:19,119 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:06:22,992 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 12:06:24,546 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:06:46,683 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 12:06:48,107 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:07:05,485 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 12:07:07,283 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:07:11,177 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 12:07:12,623 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:07:15,969 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 12:07:17,465 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:07:20,601 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 12:07:22,011 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:07:25,164 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\chunkers\chunker.py changed, reloading.
+2025-05-04 12:07:26,804 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:07:46,079 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 12:07:48,533 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:07:54,676 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 12:07:56,446 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:08:08,730 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 12:08:10,262 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:08:44,364 INFO chunking.views: No_error
+2025-05-04 12:08:44,364 INFO chunking.views: <!DOCTYPE html>
+<html>
+<body>
+    <div>
+        <h1>Foo</h1>
+        <p>Some intro text about Foo.</p>
+        <h3>testing</h3>
+    </div>
+    
+    <h2>
+        <h3>testing</h3>
+        <p>kapil</p>
+    </h2>
+</body>
+</html>
+2025-05-04 12:08:44,610 INFO chunking.chunkers.chunker: page_content='Foo 
+ Some intro text about Foo. 
+ testing' metadata={'Header 1': 'Foo'}
+2025-05-04 12:08:44,610 INFO chunking.views: [('h1', 'Header 1'), ('h2', 'Header 2')]
+2025-05-04 12:08:44,610 INFO chunking.views: [Document(metadata={'Header 1': 'Foo'}, page_content='Foo \n Some intro text about Foo. \n testing'), Document(metadata={'Header 2': 'testing'}, page_content='testing \n \n kapil')]
+2025-05-04 12:08:44,629 INFO django.server: "POST /chunking/markdown/section HTTP/1.1" 200 193
+2025-05-04 12:08:53,875 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 12:08:55,601 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:10:00,691 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 12:10:02,199 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:11:10,283 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 12:11:12,161 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:11:22,785 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 12:11:24,372 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:11:40,068 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 12:11:42,014 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:11:49,900 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 12:11:51,477 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:11:54,444 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 12:11:55,872 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:11:58,865 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 12:12:00,244 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:12:03,111 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 12:12:04,622 INFO django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-04 12:12:20,196 INFO chunking.views: No_error
+2025-05-04 12:12:20,196 INFO chunking.views: <!DOCTYPE html>
+<html>
+<body>
+    <div>
+        <h1>Foo</h1>
+        <p>Some intro text about Foo.</p>
+        <h3>testing</h3>
+    </div>
+    
+    <h2>
+        <h3>testing</h3>
+        <p>kapil</p>
+    </h2>
+</body>
+</html>
+2025-05-04 12:12:20,697 INFO chunking.chunkers.chunker: page_content='Foo 
+ Some intro text about Foo. 
+ testing' metadata={'Header 1': 'Foo'}
+2025-05-04 12:12:20,699 INFO chunking.views: [('h1', 'Header 1'), ('h2', 'Header 2')]
+2025-05-04 12:12:20,702 INFO chunking.views: [Document(metadata={'Header 1': 'Foo'}, page_content='Foo \n Some intro text about Foo. \n testing'), Document(metadata={'Header 2': 'testing'}, page_content='testing \n \n kapil')]
+2025-05-04 12:12:20,708 INFO django.server: "POST /chunking/markdown/section HTTP/1.1" 200 253
+2025-05-04 12:12:26,743 INFO django.utils.autoreload: C:\Users\chetan chopade\Desktop\python_test_kapil\llm_test\thinkOpenAi\core\chunking\views.py changed, reloading.
+2025-05-04 12:12:28,416 INFO django.utils.autoreload: Watching for file changes with StatReloader
