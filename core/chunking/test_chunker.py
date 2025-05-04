@@ -12,14 +12,14 @@
 #         chunks = testsplitter.split_text(text)
 #         self.assertEqual(10,len(chunks[0]))
      
-import pytest   
+import pytest, os   
 from .chunkers.chunker import MyTextSplitter
 from .chunkers import chunker 
+from django.urls import reverse
 
 @pytest.fixture
 def text():
     return "Lena was a curious girl who loved exploring the woods behind her house every afternoon she would pack a small bag with snacks a notebook and her favorite compass one day she discovered a trail she had never seen before it led her to a hidden pond with crystal clear water and colorful fish swimming near the surface excited she began sketching what she saw in her notebook suddenly a small turtle climbed out of the water and looked at her as if it wanted to say something she laughed and said hello little one this became her secret spot a magical place she would return to again and again."
-
 
 def test_split_text_exact_chunks(text):
     splitter = MyTextSplitter(chunk_size=10)
@@ -29,3 +29,18 @@ def test_split_text_exact_chunks(text):
 def test_chunk_fixSize(text):
     chunks = chunker.chunk_fixSize(20,text)
     assert chunks is not None
+    
+# Ensure that pytest-django is available (it will provide access to client)
+@pytest.mark.django_db
+def test_sample_view(client):
+    # Reverse URL for 'chunking:sample' (use reverse instead of hardcoding URL)
+    url = reverse('sample')
+    
+    # Make a GET request to the URL
+    response = client.get(url)
+    
+    # Check the response status
+    assert response.status_code == 200
+    
+    # Check the content of the response
+    assert response.content.decode() == "Sample response content"
