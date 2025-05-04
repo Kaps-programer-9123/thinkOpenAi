@@ -51,3 +51,5 @@ A Django backend was created to serve chunking logic via RESTful endpoints.
 * Integrate support for chunk preview/download in API responses.
 * Add unit tests and validation for each chunking method.
 * Extend markdown support for nested sections and metadata.
+
+📘 This repository is created for demo and learning purposes, featuring a [`notebooks/`](https://github.com/Kaps-programer-9123/thinkOpenAi/tree/main/gen_ai_notebook) directory with interactive examples and a [`screenshots/`](https://github.com/Kaps-programer-9123/thinkOpenAi/tree/main/screen_shot) section for a visual overview of the work.
