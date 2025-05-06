@@ -4,6 +4,7 @@ from django.http import JsonResponse
 import json
 from django.views.decorators.csrf import csrf_exempt
 from .chunkers import chunker
+from .chunkers import markdown as md
 import logging
 
 logger = logging.getLogger(__name__)
@@ -46,7 +47,7 @@ def markdown_header(request):
     logger.info(input_text)
     
     if result == "No_error":
-        headers_to_split_on, chunk_data = chunker.markdown_header(input_text)
+        headers_to_split_on, chunk_data = md.markdown_header(input_text)
         logger.info(headers_to_split_on)
         logger.info(chunk_data)
         serializable_data = [
@@ -65,7 +66,7 @@ def markdown_section(request):
     logger.info(input_text)
     
     if result == "No_error":
-        headers_to_split_on, chunk_data = chunker.markdown_section(input_text)
+        headers_to_split_on, chunk_data = md.markdown_section(input_text)
         logger.info(headers_to_split_on)
         logger.info(chunk_data)
         serializable_chunk = [
