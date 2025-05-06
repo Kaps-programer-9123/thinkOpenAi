@@ -34,7 +34,7 @@ def Sliding(size,input_text,overlap, separators):
     chunks = sentenceTextsplit.split_text(input_text)
     return chunks
 
-# def token(size,input_text):
+def token(size,input_text):
     enc = tiktoken.get_encoding("gpt2")
     tokens = enc.encode(input_text)
     logger.info("All tokens len : "+str(len(tokens)))
