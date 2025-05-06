@@ -52,3 +52,12 @@ def test_fixSize(client):
     data = response.json()
     assert "chunk data" in data
     assert data["size"] == 10
+
+
+import logging
+
+logger = logging.getLogger(__name__)
+
+def test_logging():
+    logger.info("This is an info log")
+    assert True

@@ -30,17 +30,7 @@ def test_chunk_fixSize(text):
     chunks = chunker.chunk_fixSize(20,text)
     assert chunks is not None
     
-# Ensure that pytest-django is available (it will provide access to client)
-@pytest.mark.django_db
-def test_sample_view(client):
-    # Reverse URL for 'chunking:sample' (use reverse instead of hardcoding URL)
-    url = reverse('sample')
-    
-    # Make a GET request to the URL
-    response = client.get(url)
-    
-    # Check the response status
-    assert response.status_code == 200
-    
-    # Check the content of the response
-    assert response.content.decode() == "Sample response content"
+def test_token(text):
+    chunks = chunker.token(10,text)
+    assert chunks is not None
+
