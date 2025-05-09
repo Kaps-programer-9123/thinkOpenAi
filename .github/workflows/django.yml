@@ -48,5 +48,5 @@ jobs:
 
     - name: Cooldown Period
       run: |
-        echo "Server down. Sleeping for 10 minutes."
-        sleep 600  # Cooldown for 10 minutes
+        echo "Server down. Sleeping for half minutes."
+        sleep 30  # Cooldown for half minutes
