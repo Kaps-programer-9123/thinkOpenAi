@@ -2,7 +2,7 @@ name: Django CI
 
 on:
   push:
-    branches: [ "feature/chunking-100" ]
+    branches: [ "feature/deploy-100" ]
   pull_request:
     branches: [ "main-build" ]
 
@@ -34,9 +34,10 @@ jobs:
     - name: Start Django Server for 1 Minutes
       run: |
         cd core
-        nohup python manage.py runserver 0.0.0.0:8000 &
-        sleep 60  # Run server for 1 minutes
-        pkill -f runserver  # Kill Django server
+        python manage.py runserver 0.0.0.0:8000 &  # Run server in background
+        SERVER_PID=$!  # Capture the PID of the server
+        sleep 60  # Wait for 60 seconds
+        kill $SERVER_PID  # Kill the server after 60 seconds
     
     - name: Cooldown Period
       run: |
