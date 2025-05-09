@@ -28,4 +28,5 @@ jobs:
     - name: Run Tests
       run: |
         cd core
-        python manage.py test
+        pytest
+        python manage.py runserver
