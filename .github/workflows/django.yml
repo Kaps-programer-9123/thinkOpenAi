@@ -41,6 +41,7 @@ jobs:
 
     - name: Start Django Server for 1 Minute inside Docker
       run: |
+        docker rm -f django-app-container || true
         docker run -d -p 8000:8000 --name django-app-container django-app  # Run Docker container in detached mode
         sleep 60  # Wait for 60 seconds
         docker stop django-app-container  # Stop the server after 60 seconds
