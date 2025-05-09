@@ -46,16 +46,23 @@ cd core
 python manage.py runserver
 ```
 ### 🧪 Run Tests
-cd core
-pytest
-
+```bash
+    cd core
+    pytest
+```
 
 ### 🐳 Docker Support
 This project includes a Dockerfile to containerize the entire Django app.
-docker build -t thinkopenai-app .
+```bash
+    docker build -t thinkopenai-app .
+```
 
 ### ▶️ Run Container
+```bash
 docker run -d -p 8000:8000 --name thinkopenai-container thinkopenai-app
+```
 
 ### 🛑 Stop & Remove Container
+```bash
 docker stop thinkopenai-container && docker rm thinkopenai-container
+```
