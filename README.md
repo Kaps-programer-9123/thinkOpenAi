@@ -6,8 +6,8 @@ A comprehensive roadmap of skills and concepts for working with LLMs, RAG, and m
 
 ## 🎯 1. Foundational Understanding
 
-- Transformer architecture (self-attention, encoder-decoder)
 - Tokenization and embeddings
+- Transformer architecture (self-attention, encoder-decoder)
 - Generative vs extractive models
 - Sampling strategies (temperature, top-k, top-p)
 
