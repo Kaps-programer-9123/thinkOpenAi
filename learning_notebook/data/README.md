@@ -19,9 +19,12 @@ OPENROUTER_API_KEY="paste-your-key-here"
 1. Go to **[openrouter.ai](https://openrouter.ai/google/gemini-2.0-flash-exp:free)** → sign in
 2. Visit the **API Keys** section
 3. Click **Create New Key** → name it (e.g., “Workshop Key”)
-4. (Optional) Set a credit limit
+4. (Optional) Set a credit limit $1
 5. Click **Generate** → copy the API key
 6. Paste into the `.env` file under the `OPENROUTER_API_KEY` line
 7. Save the file and rerun your code.
 
+## 🔴 IMPORTANT: Use only free models for testing!
+
+⚠️ Example: google/gemma-3-27b-it:free → this will cost you ₹0 during the workshop.
 ---
